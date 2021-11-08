@@ -9,3 +9,48 @@
 p {
   font-weight: bold;
 }
+
+
+#question-id {
+  background-color: rosybrown;
+  border: 1px solid rgb(226, 191, 191);
+}
+
+p {
+  font-style: italic;
+  color: grey;
+}
+
+.container {
+  border: 3px solid rosybrown;
+  border-radius: 5px;
+  padding: 10px;
+  text-align: center;
+  width: 250px;
+  margin: auto;
+}
+
+h1 {
+  color: rosybrown;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: rosybrown;
+  text-align: center;
+  font-weight: bolder;
+}
+
+a:hover {
+  color: burlywood;
+}
+
+#link {
+  text-align: center;
+  margin: 30px;
+}
+
+#form {
+  text-align: center;
+}
